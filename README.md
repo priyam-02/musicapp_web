@@ -1,4 +1,4 @@
-# musicapp_web
+# Music Web Application
 This is a web based application and can be used to listen music, add playlist, and much more things.<br>
 This is built using HTML, CSS, JAVASCRIPT.<br><br>
 This can be used to listen to music, add songs to playlist, and much more. <br>
